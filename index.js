@@ -108,8 +108,8 @@ class Ball{
            alert('game over!!!');
            function reloadPage(){
             location.reload(true);
-            
-        }
+           }    
+        
         reloadPage();
        }
     }
